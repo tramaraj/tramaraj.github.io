@@ -20,8 +20,8 @@ Current & Previuos Work experience
 ======
 * 09/19 – Present: Assistant Professor, SoC, CDM, DePaul University, Chicago, IL
 * 04/15 – Present: Adjunct Assistant Professor, UNM, Albuquerque, NM
-* 11/13 – 08/2019: Bioinformatics Research Scientist, NCGR, Santa Fe, NM
-* 05/13 – 04/2016: Adjunct Research Fellow, CCG, Murdoch University, Perth, Australia
-* 11/12 – 10/2013: Senior Bioinformatics Analyst, NCGR, Santa Fe, NM
+* 11/13 – 08/19: Bioinformatics Research Scientist, NCGR, Santa Fe, NM
+* 05/13 – 04/16: Adjunct Research Fellow, CCG, Murdoch University, Perth, Australia
+* 11/12 – 10/13: Senior Bioinformatics Analyst, NCGR, Santa Fe, NM
 * 06/10 – 10/12: Bioinformatics Analyst, NCGR, Santa Fe, NM
 * 05/08 – 08/08 & 01/09 – 08/08: Visiting Pre-Doc. Fellow, NCGR, Santa Fe, NM
