@@ -14,11 +14,6 @@ author_profile: true
 Ongoing Research Projects
 ======
 
-Pangenomics
-======
-
-Biofilm Resource and Infromation Database
-======
-
-Cotton Genomics
-======
+1. Pangenomics
+2. Biofilm Resource and Infromation Database
+3. Cotton Genomics
