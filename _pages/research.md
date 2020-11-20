@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
 
-Interests
-===
 * Computational Biology
 * Bioinformatics
 * Biofilm Image Informatics
