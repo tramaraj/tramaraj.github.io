@@ -15,5 +15,7 @@ Ongoing Research Projects
 ======
 
 1. Pangenomics
-2. Biofilm Resource and Infromation Database
+2. Biofilm Resource and Information Database (BRaID)
 3. Cotton Genomics
+
+## To learn more about my research work please visit our [CoBaAB Research Website] and [DePaul Bioinformatics GitHub page]
