@@ -5,21 +5,20 @@ permalink: /service/
 author_profile: true
 ---
 
-PROFESSIONAL MEMBERSHIP
-----
+#### Professional Membership
+
 * Associate Member, Sigma Xi, Scientific Research Society
 * Member, Institute of Electrical and Electronics Engineers (IEEE)
 * Member, Institute of Electrical and Electronics Engineers (IEEE) Communications Society
 
-AD-HOC REVIEWER, NSF PGRP PROGRAM
----
+#### Ad-Hoc Reviewer, NSF PGRP Program
 
-REVIEW EDITOR
-----
+#### Review Editor
+
 * FRONTIERS IN GENETICS JOURNAL, BIOINFORMATICS AND COMPUTATIONAL BIOLOGY
 
-MANUSCRIPT REVIEW FOR JOURNALS
-----
+#### Manuscript Review for Journals
+
 * BMC Genomics
 * Frontiers in Genetics, Bioinformatics and Computational Biology
 * Briefings in Bioinformatics
