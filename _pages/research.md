@@ -10,3 +10,10 @@ author_profile: true
 * Biofilm Image Informatics
 * Next Generation Sequence Data Analytics
 * OMICS Data Integration
+
+Pangenomics
+======
+Biofilm Resource and Infromation Database
+======
+Cotton Genomics
+======
