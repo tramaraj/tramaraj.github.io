@@ -60,7 +60,9 @@ Biotechnol J. 2016 Jul 4. doi: 10.1002/biot.201500455. [Epub ahead of print]. PM
 2012 (1)
 ======
 02. Thiruvarangan Ramaraj, Thomas Angel, Edward Dratz, Algirdas Jesaitis, and Brendan Mumey. “Properties of antigen-antibody interfaces: Composition, residue interactions, and features of 53 non-redundant structures.” Biochimica et Biophysica Acta 1824 (2012) 520-532 PMID: 22246133
+
 2010 (1)
+======
 01. Sergio E. Baranzini, Joann Mudge, Jennifer C. van Velkinburgh, Pouya Khankhanian, Irina Khrebtukova, Neil A. Miller, Lu Zhang, Andrew D. Farmer, Callum J. Bell, Ryan W. Kim, Gregory D. May, Jimmy E. Woodward, Stacy J. Caillier, Joseph P. McElroy, Refujia Gomez, Marcelo J. Pando, Leonda E. Clendenen, Elena E. Ganusova, Faye D. Schilkey, Thiruvarangan Ramaraj, Omar A. Khan, Jim J. Huntley, Shujun Luo, Pui-yan Kwok, Thomas D. Wu, Gary P. Schroth, Jorge R. Oksenberg, Stephen L. Hauser and Stephen F. Kingsmore. “Genome, epigenome and RNA sequences of monozygotic twins discordant for multiple sclerosis.” Nature 464, 1351-1356 (29 April 2010) PMID: 20428171
 
 {% if author.googlescholar %}
