@@ -18,10 +18,10 @@ Education
 
 Current & Previuos Work experience
 ======
-* 09/2019 – Present: Assistant Professor, School of Computing, DePaul University, Chicago, IL
-* 04/2015 – Present: Adjunct Assistant Professor, University of New Mexico, Albuquerque, NM
-* 11/2013 – 08/2019: Bioinformatics Research Scientist, NCGR, Santa Fe, NM
-* 05/2013 – 04/2016: Adjunct Research Fellow, Center for Comparative Genomics, Murdoch University, Perth, Australia
-* 11/2012 – 10/2013: Senior Bioinformatics Analyst, NCGR, Santa Fe, NM
-* 06/2010 – 10/2012: Bioinformatics Analyst, NCGR, Santa Fe, NM
-* 05/2008 – 08/2008 & 01/2009 – 08/2008: Visiting Pre-Doctoral Fellow, NCGR, Santa Fe, NM
+** 09/2019 – Present: Assistant Professor, School of Computing, DePaul University, Chicago, IL
+** 04/2015 – Present: Adjunct Assistant Professor, University of New Mexico, Albuquerque, NM
+** 11/2013 – 08/2019: Bioinformatics Research Scientist, NCGR, Santa Fe, NM
+** 05/2013 – 04/2016: Adjunct Research Fellow, Center for Comparative Genomics, Murdoch University, Perth, Australia
+** 11/2012 – 10/2013: Senior Bioinformatics Analyst, NCGR, Santa Fe, NM
+** 06/2010 – 10/2012: Bioinformatics Analyst, NCGR, Santa Fe, NM
+** 05/2008 – 08/2008 & 01/2009 – 08/2008: Visiting Pre-Doctoral Fellow, NCGR, Santa Fe, NM
