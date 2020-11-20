@@ -12,9 +12,9 @@ I am an Assistant Professor at the School of Computing, DePaul University, Chica
 
 Education
 ======
-* B.E Computer Science & Enggineering, Annamalai University, India, 2001
-* M.S. Computer Science, Ball State University, Muncie, IN, USA, 2005
 * Ph.D Computer Science, Montana State University, Bozeman, MT, USA, 2010
+* M.S. Computer Science, Ball State University, Muncie, IN, USA, 2005
+* B.E Computer Science & Enggineering, Annamalai University, India, 2001
 
 Current & Previuos Work experience
 ======
