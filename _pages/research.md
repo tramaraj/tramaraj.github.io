@@ -11,6 +11,9 @@ author_profile: true
 * Next Generation Sequence Data Analytics
 * OMICS Data Integration
 
+Ongoing Research Projects
+======
+
 Pangenomics
 ======
 
