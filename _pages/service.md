@@ -15,7 +15,7 @@ author_profile: true
 
 ### Review Editor
 
-* FRONTIERS IN GENETICS JOURNAL, BIOINFORMATICS AND COMPUTATIONAL BIOLOGY
+* Frontiers in Genetics Journal, Bioinformatics and Computational Biology
 
 ### Manuscript Review for Journals
 
