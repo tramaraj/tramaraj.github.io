@@ -22,4 +22,5 @@ Ongoing Research Projects
 
 ---
 I am looking for hardworking, motivated graduate students to join my research group. If you are interested write me a short email describing how your interests align my research work, for example a particular research question or a specific project.
+---
 
