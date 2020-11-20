@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thiru Ramaraj"
+title                    : "Thiruvarangan Ramaraj"
 title_separator          : "-"
-name                     : &name "Thiru Ramaraj"
+name                     : &name "Thiruvarangan Ramaraj"
 description              : &description "personal description"
 url                      : https://tramaraj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Thiru Ramaraj"
   avatar           : "IMG_3532.JPG"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Computational Biology, Bioinformatics, Biofilm Image Informatics, Next Generation Sequencing, OMICS"
+  location         : "Chicago, IL, USA"
+  employer         : "School of Computing, College of Computing & Digital Media, DePaul University"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/thiruvarangan.ramaraj.1/bibliography/public/"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=5a9X7N0AAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "tramaraj@depaul.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Thiruvarangan_Ramaraj"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/tramaraj/"
+  orcid            : "https://orcid.org/0000-0002-7333-1041"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "tramaraj"
   vine             :
   weibo            :
   xing             :
