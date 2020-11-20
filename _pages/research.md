@@ -7,8 +7,8 @@ author_profile: true
 
 Interests
 ======
-Computational Biology
-Bioinformatics
-Next Generation Sequence Data Analytics
-Big Data Science
-OMICS
+* Computational Biology
+* Bioinformatics
+* Biofilm Image Informatics
+* Next Generation Sequence Data Analytics
+* OMICS Data Integration
