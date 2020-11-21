@@ -16,7 +16,7 @@ Education
 * M.S. Computer Science, Ball State University, Muncie, IN, USA, 2005
 * B.E. Computer Science & Engg., Annamalai University, Chidambaram, TN, India, 2001
 
-Current & Previous Work experience
+Current & Previous Appointments
 ======
 * 09/19 – Present: Assistant Professor, SoC, CDM, DePaul University, Chicago, IL
 * 04/15 – Present: Adjunct Assistant Professor, UNM, Albuquerque, NM
