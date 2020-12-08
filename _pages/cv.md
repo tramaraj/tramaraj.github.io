@@ -17,4 +17,4 @@ My CV is available for download [here](https://tramaraj.github.io/files/TRamaraj
 {% include base_path %}
 
 {% assign rel_url=page.file_url | absolute_url %}
-{% include file.html url=rel_url media_type=page.file_type update_date=page.last_update_date %}
+{% include file.html url=rel_url media_type=page.file_type update_date=page.last_update %}
