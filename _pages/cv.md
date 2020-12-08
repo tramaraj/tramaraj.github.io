@@ -10,10 +10,6 @@ file_type: "application/pdf"
 last_update: "September 2020"
 
 ---
-
-My CV is available for download [here](https://tramaraj.github.io/files/TRamaraj_CV_Sep2020.pdf). Last updated Sep 2020.
-
-
 {% include base_path %}
 
 {% assign rel_url=page.file_url | absolute_url %}
