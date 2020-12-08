@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 file url: "files/TRamaraj_CV_Sep2020.pdf"
-file type: "aaplication/pdf"
+file type: "application/pdf"
 last_update: "September 2020"
 
 ---
