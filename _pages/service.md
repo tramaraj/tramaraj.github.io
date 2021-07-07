@@ -19,6 +19,8 @@ author_profile: true
 
 ### Manuscript Review for Journals
 
+* Plant Science, An international journal of experimental plant biology
+* Theoretical and Experimental Plant Physiology
 * BMC Genomics 
 * Frontiers in Genetics, Bioinformatics and Computational Biology 
 * Briefings in Bioinformatics 
