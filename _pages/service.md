@@ -10,7 +10,7 @@ author_profile: true
 * Associate Member, Sigma Xi, Scientific Research Society 
 * Member, Institute of Electrical and Electronics Engineers (IEEE) 
 * Member, Institute of Electrical and Electronics Engineers (IEEE) Communications Society
-* Computer Science Teachers Association
+* Computer Science Teachers Association (CSTA)
 
 ### Ad-Hoc Reviewer, NSF PGRP Program
 ### Associate Editor for Computational Genomics, Frontiers in Genetics
