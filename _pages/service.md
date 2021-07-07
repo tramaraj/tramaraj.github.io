@@ -12,7 +12,7 @@ author_profile: true
 * Member, Institute of Electrical and Electronics Engineers (IEEE) Communications Society 
 
 ### Ad-Hoc Reviewer, NSF PGRP Program
-
+### Associate Editor for Computational Genomics, Frontiers in Genetics
 ### Review Editor
 
 * Frontiers in Genetics Journal, Bioinformatics and Computational Biology 
